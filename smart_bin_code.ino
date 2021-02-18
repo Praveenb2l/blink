@@ -59,6 +59,6 @@ void loop()
 //  {
 //Blynk.notify(" Emergency Alert - Fire Detected");
 //  }
-  delay(3500);
+  delay(4500);
 
 }
